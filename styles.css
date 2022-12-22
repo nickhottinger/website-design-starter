@@ -1,0 +1,112 @@
+body {
+    font-family: "spectral";
+}
+
+header {
+    width: 85%;
+    margin-left: 7.5%;
+}
+
+h1 {
+    text-align: left;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: "chakra petch";
+}
+
+h2 {
+    text-align: left;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+p, li {
+    font-size: 14px;
+    font-weight: 400px;
+}
+
+.style {
+    border: 1px solid #000000;
+    margin: 8px auto;
+    width: 85%;
+    padding: 5px;
+}
+
+.color {
+    display: inline-block;
+    height: 100px;
+    width: 400px;
+    margin: 20px 10px;
+}
+
+#color-1 {
+    background-color: #061373;
+    color: #fff;
+}
+
+#color-2 {
+    background-color: #6d0303;
+    color: #fff;
+}
+
+#color-3 {
+    background-color: #c3a202;
+}
+
+#color-4 {
+    background-color: #cad6db;
+}
+
+.color h3 {
+    text-align: center;
+}
+
+.color p {
+    text-align: center;
+}
+
+.font {
+    display: inline-block;
+    margin: 10px 40px;
+    vertical-align: top;
+}
+
+.font h3 {
+    text-align: left;
+    text-decoration: underline;
+}
+
+.font p {
+    text-align: left;
+}
+
+#font-1 {
+    font-family: "spectral";
+}
+
+#font-2 {
+    font-family: "chakra petch";
+}
+
+#font-3 {
+    font-family: monospace;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.font-italic {
+    font-style: italic;
+}
+
+
+
+
+
+
